@@ -1,0 +1,6 @@
+{
+  "name": "Propre Maison Services",
+  "description": "Services de nettoyage résidentiel à Paris : ménage régulier à domicile, nettoyage en profondeur et entretien d'appartements au 36 Rue de Belleville, 75020 Paris.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
